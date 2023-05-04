@@ -1,0 +1,1 @@
+# Lambda_automated_stop
